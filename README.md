@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pallavee19
-- 👀 I’m interested in UI Automation
+- 👀 I’m interested in UI Automation, RPA Development and Uipath Automation
 - 🌱 I’m currently learning automation testing With selenium (java)
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me pallavee@triosoft.in
